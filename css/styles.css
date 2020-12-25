@@ -1,0 +1,30 @@
+/**********************************TAG SELECTORS************************/
+h3 {
+  color: #ffd66b;
+  text-shadow: 12px 12px 15px grey;
+  font-size: 120px;}
+
+  h6 {color: #ffd66b;
+    text-shadow: 12px 12px 15px grey;
+  font-size: 68px;}
+
+img:hover {
+  background-color: gold;}
+
+body {
+
+  background-image: url(https://pa1.narvii.com/6544/ab63e208138b32829cb86a6920338d72dfb05293_128.gif);
+  background-color: #70af85;}
+
+/**********************************CLASS SELECTORS************************/
+
+.tocino {background-color: green;}
+.circular {border-radius: 100%}
+.tocino:hover {
+  transform: scale(1.5);
+}
+.brocoly {background-color: red;}
+.brocoly:hover {
+  transform: scale(1.5);}
+
+/**********************************ID SELECTORS************************/
